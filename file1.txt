@@ -1,9 +1,5 @@
-This line is modifies in feature-2.
+This is first file.
 
 
 
 Edited file on loaca repo.To Test merge conflict
-
-
-
-This line is added in feature-2.
